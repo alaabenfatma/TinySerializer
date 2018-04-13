@@ -1,0 +1,24 @@
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\Test\bin\Debug\Test.exe.config
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\Test\bin\Debug\Test.exe
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\Test\bin\Debug\Test.pdb
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\Test\obj\Debug\Test.exe
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\Test\obj\Debug\Test.pdb
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\Test\bin\Debug\TinySerializer.dll
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\Test\bin\Debug\TinySerializer.pdb
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\Test\bin\Debug\Test.exe.config
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\Test\obj\Debug\Test.exe
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\Test\obj\Debug\Test.pdb
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\Test\bin\Debug\Test.exe
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\Test\bin\Debug\Test.pdb
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\Test\bin\Debug\TinySerializer.dll
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\Test\bin\Debug\TinySerializer.pdb
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\Test\bin\Debug\Test.exe.config
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\Test\bin\Debug\Test.exe
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\Test\bin\Debug\Test.pdb
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\Test\bin\Debug\TinySerializer.dll
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\Test\bin\Debug\TinySerializer.pdb
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\Test\obj\Debug\Test.exe
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\Test\obj\Debug\Test.pdb

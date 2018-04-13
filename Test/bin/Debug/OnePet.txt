@@ -1,0 +1,6 @@
+﻿<?
+[Type=Dragon]
+[Name=SkyCloud]
+[Age=9200 year]
+[Weight=9562.6500]
+?>

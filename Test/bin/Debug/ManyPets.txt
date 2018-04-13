@@ -1,0 +1,30 @@
+﻿<?
+[Type=Cat]
+[Name=Abby]
+[Age=1 year]
+[Weight=3.385]
+?>
+<?
+[Type=Dog]
+[Name=Max]
+[Age=3 years]
+[Weight=7.365]
+?>
+<?
+[Type=Dog]
+[Name=Rocky]
+[Age=3 years]
+[Weight=10.365]
+?>
+<?
+[Type=Rabbit]
+[Name=Sesame]
+[Age=2 Months]
+[Weight=1.365]
+?>
+<?
+[Type=Dragon]
+[Name=Skycloud]
+[Age=3500 years]
+[Weight=7.365]
+?>

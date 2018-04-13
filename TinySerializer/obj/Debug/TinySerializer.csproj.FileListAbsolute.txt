@@ -1,0 +1,12 @@
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\TinySerializer\bin\Debug\TinySerializer.pdb
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\TinySerializer\obj\Debug\TinySerializer.csprojResolveAssemblyReference.cache
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\TinySerializer\obj\Debug\TinySerializer.pdb
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\TinySerializer\bin\Debug\TinySerializer.dll.config
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\TinySerializer\bin\Debug\TinySerializer.dll
+C:\Users\Alaa Ben Fatma\Source\Repos\Unreal data\TinySerializer\TinySerializer\obj\Debug\TinySerializer.dll
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\bin\Debug\TinySerializer.dll.config
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\bin\Debug\TinySerializer.dll
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\bin\Debug\TinySerializer.pdb
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\obj\Debug\TinySerializer.csprojResolveAssemblyReference.cache
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\obj\Debug\TinySerializer.dll
+C:\Users\Alaa Ben Fatma\Documents\Repos\TinySerializer\TinySerializer\obj\Debug\TinySerializer.pdb
